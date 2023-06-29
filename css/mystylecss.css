@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: beige;
+}
+
+main {
+    width: 300px;
+    margin: auto;
+    background-color: white;
+    padding: 16px;
+}
+
+label, input {
+    display: block;
+}
+
+label {
+    margin-bottom: 10px;
+}
+
+input {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+main h1 {
+    margin-bottom: 20px;
+}
+
+.error-message {
+    background-color: red;
+    font-size: 15px;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.hasil {
+    background-color: aqua;
+}
